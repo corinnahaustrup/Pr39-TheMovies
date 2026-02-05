@@ -12,7 +12,7 @@
         <TextBox HorizontalAlignment="Left" Margin="98,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
         
       <!-- Overskrift-->
-        <TextBlock HorizontalAlignment="Left" Margin="22,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontFamily="Monotype Corsiva" ><Run Language="da-dk" Text="The Movies - Bookingsystem"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="22,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontFamily="Monotype Corsiva" ><Run Text="The Movies - "/><Run Language="da-dk" Text="annuller "/></TextBlock>
         <Label Content="Telefon nr.:" HorizontalAlignment="Left" Margin="24,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.547,-0.114"/>
         <TextBox HorizontalAlignment="Left" Margin="98,79,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
         <TextBox HorizontalAlignment="Left" Margin="98,117,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
